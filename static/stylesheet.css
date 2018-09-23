@@ -1,0 +1,16 @@
+.jumbotron {
+  background-image: url("../joshua-earle-183442-unsplash.jpg");
+}
+
+#h2_a {
+  color: rgb(18, 244, 202);
+}
+
+.table-responsive {
+  margin-top: 20px;
+}
+
+td {
+  max-width: 400px;
+  word-wrap: break-word;
+}
